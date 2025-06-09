@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Taufik!" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=200&section=header&text=👋%20Hi%2C%20I'm%20Taufik&fontSize=45&fontColor=ffffff&animation=twinkling" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🔧+OpenWRT+Tinkerer;🚀+Let's+build+awesome+tools;🌐+Web+Dev+Explorer" />
+</p>
 
 ###
 
