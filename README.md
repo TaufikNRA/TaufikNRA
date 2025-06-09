@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hii, I'm Taufik from Indonesia
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Taufik!;Ngoprek+OpenWRT+dan+Linux+Network+is+my+thing!" />
+</p>
 
 ###
 
