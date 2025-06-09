@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td><img src="https://media2.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="50" /></td>
-    <td><img src="https://readme-typing-svg.demolab.com?font=Press+Start+5P&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=480&lines=%3E_+Hi+There,+I'm+Taufik;%3E_Welcome+To+My+World;~+I+Like+The+World+of+Networking;~+~+~+~+~;~+Linux+%26+Router+Modification+Zone" /></td>
+    <td><img src="https://readme-typing-svg.demolab.com?font=Press+Start+5P&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=480&lines=%3E_+Hi+There,+I'm+Taufik;%3E_Welcome+To+My+World;~+I+Like+The+World+of+Networking;~+~+~+~+~+~+~+~+~+~;~+Linux+%26+Router+Modification+Zone" /></td>
   </tr>
 </table>
 
