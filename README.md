@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=180&section=header&text=🚀%20Taufik%20Here!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=🔧+OpenWRT+Enthusiast;⚡+Network+Tinkerer;🌐+Web+Dev+Explorer" alt="Typing SVG" />
+</p>
 
 ###
 
