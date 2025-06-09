@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=✨+Welcome+to+My+Zone;🚀+I'm+Taufik;💻+OpenWRT+%26+Linux+Enthusiast" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E_+WELCOME+TO+TAUFIK'S+WORLD;~+OPENWRT+HACKING+ZONE" />
+</p>
 
 ###
 
