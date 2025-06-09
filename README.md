@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+Hello%2C+I'm+Taufik;_+Welcome+to+my+terminal...;>>>+Let's+code+some+awesome+stuff!" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=8AFFEF&center=true&vCenter=true&width=600&lines=🚀+Hi+there%2C+I'm+Taufik!;🔧+Ngoprek+OpenWRT+dan+Linux+is+my+thing!;🌐+Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 
 ###
