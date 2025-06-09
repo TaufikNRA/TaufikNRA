@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=200&section=header&text=👋%20Hi%2C%20I'm%20Taufik&fontSize=45&fontColor=ffffff&animation=twinkling" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🔧+OpenWRT+Tinkerer;🚀+Let's+build+awesome+tools;🌐+Web+Dev+Explorer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=180&section=header&text=🚀%20Taufik%20Here!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 ###
 
