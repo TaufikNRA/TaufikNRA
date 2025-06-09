@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=🔧+OpenWRT+Enthusiast;⚡+Network+Tinkerer;🌐+Web+Dev+Explorer" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/-Let's%20Connect!-8AFFEF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
 </p>
 
 ###
