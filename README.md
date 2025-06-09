@@ -1,7 +1,6 @@
-<p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=8AFFEF&center=true&vCenter=true&width=600&lines=🚀+Hi+there%2C+I'm+Taufik!;🔧+Ngoprek+OpenWRT+dan+Linux+is+my+thing!;🌐+Let's+build+something+awesome+together!" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F76E6E&center=true&vCenter=true&width=600&lines=🚀+Taufik+here!;Let's+create+magic+with+code!" />
+</h1>
 
 ###
 
