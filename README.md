@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=%3E_+WELCOME+TO+TAUFIK'S+WORLD;~+OPENWRT+%26+LINUX+OPREKERS+ZONE" />
-  <img src="https://media2.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif?cid=6c09b952bmmin7skljcajrqiakxvjakjglo52eljnmu94v9e&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50"/>
+  <img src="https://media2.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif?" width="50"/>
 </p>
 
 
