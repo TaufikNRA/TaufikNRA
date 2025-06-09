@@ -4,7 +4,7 @@
       <img src="https://media2.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="32" />
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+1P&size=24&pause=1000&color=39FF14&vCenter=true&width=480&lines=%3E_+Hi+There,+I'm+Taufik;%3E_Welcome+To+My+World;~+I+Like+The+World+of+Networking;~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~;•+Linux+%26+Router+Modification+Zone" />
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+1P&size=24&pause=1000&color=39FF14&vCenter=true&width=480&lines=%3E_+Hi+There,+I'm+Taufik;%3E_Welcome+To+My+World;~+I+Like+The+World+of+Networking;~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~;%E2%80%A2+Linux+%26+Router+Modification+Zone" />
     </td>
   </tr>
 </table>
