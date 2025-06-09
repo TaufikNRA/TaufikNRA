@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
-    <td><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=39FF14&center=true&vCenter=true&width=400&lines=%3E_+WELCOME+TO+TAUFIK'S+WORLD;~+OPENWRT+%26+LINUX+OPREKERS+ZONE" /></td>
     <td><img src="https://media2.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="50" /></td>
+    <td><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=%3E_+WELCOME+TO+TAUFIK'S+WORLD;~+OPENWRT+%26+LINUX+OPREKERS+ZONE" /></td>
   </tr>
 </table>
 
